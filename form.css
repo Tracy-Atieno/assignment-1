@@ -1,0 +1,44 @@
+
+
+body{
+    font-size: large;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #fff600 ;
+
+
+}
+select {
+  font-weight: bold;
+  font-size: 16px;
+  background-color:#93ad0c ;
+}
+option{
+    background-color:#93ad0c ;
+    font-weight: bold;
+    color: #fff600 ;
+    
+
+}
+option:hover{
+    background-color: blue;
+    color: white;
+}
+
+div {
+  border-radius: 5px;
+  padding: 20px;
+}
+
+h3{
+    text-align: center;
+    padding: 50px;
+    margin-top: 10px;
+}
